@@ -24,7 +24,8 @@ CarePulse bridges the gap between healthcare providers and patients by offering 
 
 Here are some sneak peeks of **CarePulse**:   
 
-![Screenshot: Homepage]([screenshots/homepage.png](https://i.ibb.co/4wNwCXHL/Untitled-design.png))
+![Alt Text]([https://example.com/path-to-your-image.png](https://i.ibb.co/4wNwCXHL/Untitled-design.png))
+
 
 
 ---
