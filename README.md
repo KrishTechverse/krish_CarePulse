@@ -22,8 +22,10 @@ CarePulse bridges the gap between healthcare providers and patients by offering 
 
 ## 🎨 Visuals  
 
-Here are some sneak peeks of **CarePulse**:  
-> *(Include screenshots, GIFs, or mockups of the project here.)*
+Here are some sneak peeks of **CarePulse**:   
+
+![Screenshot: Homepage]([screenshots/homepage.png](https://i.ibb.co/4wNwCXHL/Untitled-design.png))
+
 
 ---
 
